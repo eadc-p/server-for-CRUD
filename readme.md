@@ -28,5 +28,5 @@ STEPS TO RUN:
 	In terminal enter--  npm run start
 
 3. In your browser go to localhost:8000
-4. Send get requests on localhost:8000/:id
+4. Send get requests on localhost:8000/notes/:id
 5. Use Postman app to send Put, Delete and Post requests.
