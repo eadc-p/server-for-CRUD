@@ -23,3 +23,10 @@ STEPS TO RUN:
 		  url : YOUR URL HERE
 		};
 	Don’t forget to add your username and password (the ones from the database user, not your mLab account) into the URL.
+
+2. open terminal and go to your directory. 
+	In terminal enter--  npm run start
+
+3. In your browser go to localhost:8000
+4. Send get requests on localhost:8000/:id
+5. Use Postman app to send Put, Delete and Post requests.
